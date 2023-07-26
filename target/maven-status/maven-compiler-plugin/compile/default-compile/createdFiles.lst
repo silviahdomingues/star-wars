@@ -1,0 +1,5 @@
+com/starwars/model/Planet.class
+com/starwars/model/SwapiResponse.class
+com/starwars/controller/PlanetController.class
+com/starwars/StarWarsApi.class
+com/starwars/service/PlanetService.class
